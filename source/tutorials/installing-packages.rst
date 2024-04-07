@@ -1,4 +1,13 @@
-.. _installing-packages:
+from instabot import bot
+
+bot1= bot()
+#login
+bot1.login(username="", password="")
+
+#enter your username and password
+#i will show you how to follow and unfollow next
+
+
 
 ===================
 Installing Packages
